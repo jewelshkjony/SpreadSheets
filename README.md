@@ -3,7 +3,7 @@ An awesome extension to work with google spreadsheet. You can read, write and mo
 
 <img src="https://github.com/jewelshkjony/SpreadSheets/raw/main/images/Google%20Spreadsheet%20Logo.png"/>
 
-Google Spreadsheets Extension - Free & Fastest Database {Script-Less}
+Google Spreadsheets Extension - Free & Fastest Database - Scriptless extension. It's 5x Faster Than Airtable. It also give you offline support once data is loaded. It's very secure to protect your data from hackers. It can load huge amount of data. It's very simple and easy to integrate this extension into your application.
 
 ## Total Functions
 Totally 30 functions available in this version.
