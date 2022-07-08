@@ -220,13 +220,13 @@ Using this blocks you can protect your sheet ids and sheet name etc. Set level (
 <br>
 
 ## Extension specifications:
-<img src="https://raw.githubusercontent.com/jewelshkjony/ShakeDetector/main/app-inventor-aix-download-icon.png"/> <a href="https://community.appinventor.mit.edu/t/paid-google-spreadsheets-extension-free-fastest-database-script-less-7-0-1/27619">com.Jewel.SpreadSheets</a>(202.95 kb) \
+<img src="https://github.com/jewelshkjony/SpreadSheets/raw/main/images/app-inventor-aix-download-icon.png"/> <a href="https://community.appinventor.mit.edu/t/paid-google-spreadsheets-extension-free-fastest-database-script-less-7-0-1/27619">com.Jewel.SpreadSheets</a>(202.95 kb) \
 <b>Version:</b> 7.0.1\
 <b>Price:</b> $5 USD <sub>(Standard Edition) - [Speed, validity and some functions are limited. Also you'll not get any future updates for free.]</sub> \
-<b>Price:</b> $10 USD <sub>(Premium Edition) - [Speed and validity is encreased. Unlocked all of functions but plan upgrade limitation remain. {Recommend for mid budget users}]</sub> \
-<b>Price:</b> $15 USD <sub>(Platinum Edition) - [Speed and validity is more extended. Remain upgrade limitation. {Recommend for all}]</sub> \
-<b>Price:</b> $20 USD <sub>(Flash Edition) - [More validity and no speed limitations & updates are totally free! Tested with 1M rows! {Recommend for higher end budget only}]</sub> \
-<b>Price:</b> $25 USD <sub>(Speedster Edition) - [Everything is unlocked and premium. No limitations & lifetime support! Tested with 2M rows! {Recommend for higher end budget only}]</sub> \
+<b>Price:</b> $10 USD <sub>(Premium Edition) - [Speed and validity is encreased. Unlocked all of functions but plan upgrade limitation remain. Recommend for mid budget users.]</sub> \
+<b>Price:</b> $15 USD <sub>(Platinum Edition) - [Speed and validity is more extended. Remain upgrade limitation. Recommend for all.]</sub> \
+<b>Price:</b> $20 USD <sub>(Flash Edition) - [More validity and no speed limitations & updates are totally free! Tested with 1M rows! Recommend for higher end budget only.]</sub> \
+<b>Price:</b> $25 USD <sub>(Speedster Edition) - [Everything is unlocked and premium. No limitations & lifetime support! Tested with 2M rows! Recommend for higher end budget only.]</sub> \
 <b>Last amendment:</b> 06 Jan 2022\
 <b>Supported builder:</b> Kodular, Niotron, App Inventor and it's other distributions.
 
