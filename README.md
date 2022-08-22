@@ -5,26 +5,28 @@ An awesome extension to work with google spreadsheet. You can read, write and mo
 
 Google Spreadsheets Extension - Free & Fastest Database - Scriptless extension. It's 5x Faster Than Airtable. It also give you offline support once data is loaded. It's very secure to protect your data from hackers. It can load huge amount of data. It's very simple and easy to integrate this extension into your application.
 
-## Total Functions
-Totally 30 functions available in this version.
+## Extension Properties
 
-<img src="https://github.com/jewelshkjony/SpreadSheets/raw/main/images/Total%20functions.png"/>
+<img src="https://github.com/jewelshkjony/SpreadSheets/raw/main/images/aix.png"/>
 
-## Total Events
-Totally 22 events available in this version.
+<table>
+  <tr>
+    <td><img src="https://github.com/jewelshkjony/SpreadSheets/raw/main/images/property-1.png"/></td>
+    <td><img src="https://github.com/jewelshkjony/SpreadSheets/raw/main/images/property-2.png"/></td>
+  </tr>
+</table>
 
-<img src="https://github.com/jewelshkjony/SpreadSheets/raw/main/images/Total%20events.png"/>
+## Total Functions & Events
+Totally 30 functions and 22 events are available now.
 
-## Designer Properties
-<img src="https://github.com/jewelshkjony/SpreadSheets/raw/main/images/Designer%20property.png"/>
+<img src="https://github.com/jewelshkjony/SpreadSheets/raw/main/images/all-methods.png"/>
 
-## Block Properties
-<img src="https://github.com/jewelshkjony/SpreadSheets/raw/main/images/Block%20property.png"/>
+<img src="https://github.com/jewelshkjony/SpreadSheets/raw/main/images/all-events.png"/>
 
 ## Get All Rows
 Using this blocks you can get all rows from your sheet. This method is mandatory before using any other blocks. You can use it in your splash screen then enjoy it's features. No more need to use it again.
 
-<img src="https://github.com/jewelshkjony/SpreadSheets/raw/main/images/Get%20all%20rows.png"/>
+<img src="https://github.com/jewelshkjony/SpreadSheets/raw/main/images/get-all-rows.png"/>
 
 <li> totalRow --> It's return the total number of rows.
 <li> totalColumn --> It's return the total number of columns.
@@ -35,7 +37,7 @@ Using this blocks you can get all rows from your sheet. This method is mandatory
 ## Get Cell
 Using this blocks you can get single cell from your sheet.
 
-<img src="https://github.com/jewelshkjony/SpreadSheets/raw/main/images/Get%20cell.png"/>
+<img src="https://github.com/jewelshkjony/SpreadSheets/raw/main/images/get-cell.png"/>
 
 <li> column --> It's return the name of column.
 <li> row --> It's return the number of row.
@@ -44,16 +46,7 @@ Using this blocks you can get single cell from your sheet.
 ## Get Column
 Using this blocks you can get any column from your sheet.
 
-<img src="https://github.com/jewelshkjony/SpreadSheets/raw/main/images/Get%20column.png"/>
-
-<li> column --> It's return the name of column.
-<li> values --> It's return the list of values.
-<li> length --> It's return the length of given column.
-
-## Get Max Column
-Using this blocks you can get column by limited length.
-
-<img src="https://github.com/jewelshkjony/SpreadSheets/raw/main/images/Get%20max%20column.png"/>
+<img src="https://github.com/jewelshkjony/SpreadSheets/raw/main/images/get-column.png"/>
 
 <li> column --> It's return the name of column.
 <li> values --> It's return the list of values.
@@ -62,7 +55,7 @@ Using this blocks you can get column by limited length.
 ## Get Filter List
 Using this blocks you can get single column by filtering.
 
-<img src="https://github.com/jewelshkjony/SpreadSheets/raw/main/images/Get%20filter%20list.png"/>
+<img src="https://github.com/jewelshkjony/SpreadSheets/raw/main/images/filter-list.png"/>
 
 <li> column --> It's return the name of column.
 <li> searchText --> It's return the search text.
@@ -74,7 +67,7 @@ Using this blocks you can get single column by filtering.
 ## Get Row
 Using this blocks you can get values of any row.
 
-<img src="https://github.com/jewelshkjony/SpreadSheets/raw/main/images/Get%20row.png"/>
+<img src="https://github.com/jewelshkjony/SpreadSheets/raw/main/images/get-row.png"/>
 
 <li> row --> It's return the number of row.
 <li> values --> It's return the list of values.
@@ -83,7 +76,7 @@ Using this blocks you can get values of any row.
 ## Get Sheet List
 Using this blocks you can get list of your sheets.
 
-<img src="https://github.com/jewelshkjony/SpreadSheets/raw/main/images/Get%20sheet%20list.png"/>
+<img src="https://github.com/jewelshkjony/SpreadSheets/raw/main/images/get-sheet-list.png"/>
 
 <li> sheetNames -> It's return the list of sheet names.
 <li> gridIds -> It's return the list of gid ids.
@@ -92,7 +85,7 @@ Using this blocks you can get list of your sheets.
 ## Get Columns Name
 Using this blocks you can get names of all columns.
 
-<img src="https://github.com/jewelshkjony/SpreadSheets/raw/main/images/Get%20columns%20name.png"/>
+<img src="https://github.com/jewelshkjony/SpreadSheets/raw/main/images/get-column-names.png"/>
 
 <li> columns --> It's return the list of names.
 <li> length --> It's return the length of list.
@@ -100,19 +93,19 @@ Using this blocks you can get names of all columns.
 ## Get Spreadsheet Name
 Using this blocks you can get your spreadsheet project name.
 
-<img src="https://github.com/jewelshkjony/SpreadSheets/raw/main/images/Get%20spreadsheet%20name.png"/>
+<img src="https://github.com/jewelshkjony/SpreadSheets/raw/main/images/get-spreadsheet-name.png"/>
 
 <li> name -->It's return the name of your spreadsheet project.
 
 ## Total Rows
 Using this block you can get total number of all rows.
 
-<img src="https://github.com/jewelshkjony/SpreadSheets/raw/main/images/Total%20rows.png"/>
+<img src="https://github.com/jewelshkjony/SpreadSheets/raw/main/images/total-rows.png"/>
 
 ## Create Column
 Using this blocks you can create new column in your sheet.
 
-<img src="https://github.com/jewelshkjony/SpreadSheets/raw/main/images/Create%20column.png"/>
+<img src="https://github.com/jewelshkjony/SpreadSheets/raw/main/images/create-cloumn.png"/>
 
 <li> columnName --> It's return the name of column.
 <li> columnPosition --> It's return the position of new column.
@@ -120,7 +113,7 @@ Using this blocks you can create new column in your sheet.
 ## Create Row
 Using this blocks you can create single cell in you sheet.
 
-<img src="https://github.com/jewelshkjony/SpreadSheets/raw/main/images/Create%20row.png"/>
+<img src="https://github.com/jewelshkjony/SpreadSheets/raw/main/images/create-row.png"/>
 
 <li> row --> It's return the number of row.
 <li> column --> It's return the name of column.
@@ -129,14 +122,14 @@ Using this blocks you can create single cell in you sheet.
 ## Create Rows
 Using this blocks you can create new row with multiple cells.
 
-<img src="https://github.com/jewelshkjony/SpreadSheets/raw/main/images/Create%20rows.png"/>
+<img src="https://github.com/jewelshkjony/SpreadSheets/raw/main/images/create-rows.png"/>
 
 <li> response --> It's return the response string.
 
 ## Update Cell
 Using this blocks you can update any cell.
 
-<img src="https://github.com/jewelshkjony/SpreadSheets/raw/main/images/Update%20cell.png"/>
+<img src="https://github.com/jewelshkjony/SpreadSheets/raw/main/images/update-cell.png"/>
 
 <li> column --> It's return the name of column.
 <li> row --> It's return the row number.
@@ -145,21 +138,21 @@ Using this blocks you can update any cell.
 ## Update Rows
 Using this blocks you can update any row values.
 
-<img src="https://github.com/jewelshkjony/SpreadSheets/raw/main/images/Update%20rows.png"/>
+<img src="https://github.com/jewelshkjony/SpreadSheets/raw/main/images/update-rows.png"/>
 
 <li> row --> It's return the number of row.
 
 ## Delete Row
 Using this blocks you can delete any row by row number.
 
-<img src="https://github.com/jewelshkjony/SpreadSheets/raw/main/images/Delete%20row.png"/>
+<img src="https://github.com/jewelshkjony/SpreadSheets/raw/main/images/delete-row.png"/>
 
 <li> row --> It's return the number of row.
 
 ## Delete Column
 Using this blocks you can delete any column from your sheet.
 
-<img src="https://github.com/jewelshkjony/SpreadSheets/raw/main/images/Delete%20column.png"/>
+<img src="https://github.com/jewelshkjony/SpreadSheets/raw/main/images/delete-column.png"/>
 
 <li> column --> It's return the name of column.
 <li> position --> It's return the position of column.
@@ -167,35 +160,35 @@ Using this blocks you can delete any column from your sheet.
 ## Create Sheet
 Using this blocks you can create new sheet in your spreadsheet project.
 
-<img src="https://github.com/jewelshkjony/SpreadSheets/raw/main/images/Create%20sheet.png"/>
+<img src="https://github.com/jewelshkjony/SpreadSheets/raw/main/images/create-sheet.png"/>
 
 <li> sheetName --> It's return the name of sheet.
 
 ## Delete Sheet
 Using this blocks you can delete any sheet from your spreadsheet project.
 
-<img src="https://github.com/jewelshkjony/SpreadSheets/raw/main/images/Delete%20sheet.png"/>
+<img src="https://github.com/jewelshkjony/SpreadSheets/raw/main/images/delete-sheet.png"/>
 
 <li> sheetName --> It's return the name of sheet.
 
 ## Rename Sheet
 Using this blocks you can rename any sheet from your project.
 
-<img src="https://github.com/jewelshkjony/SpreadSheets/raw/main/images/Rename%20sheet.png"/>
+<img src="https://github.com/jewelshkjony/SpreadSheets/raw/main/images/rename-sheet.png"/>
 
 <li> newName --> It's return the new name of sheet.
 
 ## Rename Spreadsheet
 Using this blocks you can rename your project name.
 
-<img src="https://github.com/jewelshkjony/SpreadSheets/raw/main/images/Rename%20spreadsheet.png"/>
+<img src="https://github.com/jewelshkjony/SpreadSheets/raw/main/images/rename-spreadsheet.png"/>
 
 <li> name --> It's return the new name of your project.
 
 ## Refresh Data
 Using this blocks you can refresh data manually if you disabled Auto Refresh. Otherwise no need to refresh data manually.
 
-<img src="https://github.com/jewelshkjony/SpreadSheets/raw/main/images/Refresh%20data.png"/>
+<img src="https://github.com/jewelshkjony/SpreadSheets/raw/main/images/refresh-data.png"/>
 
 <li> functionName --> It's return the function name, which is performed before data refreshed.
 <li> totalRow --> It's return the total number of rows.
@@ -207,7 +200,7 @@ Using this blocks you can refresh data manually if you disabled Auto Refresh. Ot
 ## Failed
 It's rises when this extension got or faced any error!
 
-<img src="https://github.com/jewelshkjony/SpreadSheets/raw/main/images/Failed.png"/>
+<img src="https://github.com/jewelshkjony/SpreadSheets/raw/main/images/failed.png"/>
 
 <li> functionName --> It's return the function name which function got or faced error.
 <li> error --> It's return the error string.
@@ -215,50 +208,34 @@ It's rises when this extension got or faced any error!
 ## Encode Decode
 Using this blocks you can protect your sheet ids and sheet name etc. Set level (1-100) and password length must be 5 or more.
 
-<img src="https://github.com/jewelshkjony/SpreadSheets/raw/main/images/Encode%20decode.png"/>
+<img src="https://github.com/jewelshkjony/SpreadSheets/raw/main/images/encode-decode.png"/>
 
 <br>
 
 ## Extension specifications:
-<img src="https://github.com/jewelshkjony/SpreadSheets/raw/main/images/app-inventor-aix-download-icon.png"/> <a href="https://community.appinventor.mit.edu/t/paid-google-spreadsheets-extension-free-fastest-database-script-less-7-0-1/27619">com.Jewel.SpreadSheets</a>(202.95 kb) \
-<b>Version:</b> 7.0.1\
+<img src="https://github.com/jewelshkjony/SpreadSheets/raw/main/images/download.png"/> <a href="https://t.me/jewelshkjony">com.jewel.spreadsheets</a>(232 KB) \
+<b>Version:</b> 7.0.2\
 <b>Price:</b> $5 USD <sub>(Standard Edition) - [Speed, validity and some functions are limited. Also you'll not get any future updates for free.]</sub> \
 <b>Price:</b> $10 USD <sub>(Premium Edition) - [Speed and validity is encreased. Unlocked all of functions but plan upgrade limitation remain. Recommend for mid budget users.]</sub> \
 <b>Price:</b> $15 USD <sub>(Platinum Edition) - [Speed and validity is more extended. Remain upgrade limitation. Recommend for all.]</sub> \
 <b>Price:</b> $20 USD <sub>(Flash Edition) - [More validity and no speed limitations & updates are totally free! Tested with 1M rows! Recommend for higher end budget only.]</sub> \
 <b>Price:</b> $25 USD <sub>(Speedster Edition) - [Everything is unlocked and premium. No limitations & lifetime support! Tested with 2M rows! Recommend for higher end budget only.]</sub> \
-<b>Last amendment:</b> 06 Jan 2022\
-<b>Supported builder:</b> Kodular, Niotron, App Inventor and it's other distributions.
+<b>Last amendment:</b> 22 August 2022\
+<b>Supported builder:</b> <a href="https://www.kodular.io/">Kodular</a>, <a href="https://niotron.com/">Niotron</a>, <a href="https://appzard.com/">AppZard</a>, <a href="https://androidbuilder.in/">AndroidBuilder</a>, <a href="http://ai2.appinventor.mit.edu/">App Inventor</a> and it's other distributions.
 
-## 📫 How to reach me: ...
+## 📫 How to reach me -
 
-<a href="https://t.me/jewelshkjony">Telegram</a> - <a href="https://wa.me/8801775668913">WhatsApp</a> - <a href="https://fb.com/jewelshkjony">Facebook</a> - <a href="https://m.me/jewelshkjony">Messenger</a>
+<a href="https://t.me/jewelshkjony">Telegram</a> | <a href="https://wa.me/8801775668913">WhatsApp</a> | <a href="https://fb.com/jewelshkjony">Facebook</a> | <a href="https://m.me/jewelshkjony">Messenger</a> | <a href="https://m.youtube.com/c/JewelShikderJony">Youtube</a>
 
-## Payment Gateway
-Use this phone number to pay me from Bangladesh.
+## Global Payment Method
+<a href="https://www.xoom.com/bangladesh/send-money">Xoom</a> | <a href="https://wise.com/">TansferWise (Wise)</a> | <a href="http://share.payoneer.com/nav/kJkLyppKLt-FTUg-P9xnUd76yT4iWQiym2irI42PLM7uQWXuVsWvSOABMvVykU5hbFiDGSULXNdI3-yRM7JVhA2">Payoneer</a>
+
+### Bangladeshi Payment Method
+Bangladeshi user can send money using <a href="https://bka.sh/next?c=signup&uuid=C1CC9JVT1">bkash</a> | <a href="https://play.google.com/store/apps/details?id=com.konasl.nagad">Nagad</a> | <a href="https://play.google.com/store/apps/details?id=com.dbbl.mbs.apps.main">Rocket</a>.
+Use this phone number to send money.
 
 ````java
 +8801775668913
 ````
-Bangladeshi user can send money using bkash, Nagad and Rocket. Remember accounts are personal.
 
-
-## License [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-    Copyright (c) 2022 Jewel Shikder Jony
-    Permission is hereby granted, free of charge, to any person obtaining a copy
-    of this software and associated documentation files (the "Software"), to deal
-    in the Software without restriction, including without limitation the rights
-    to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-    copies of the Software, and to permit persons to whom the Software is
-    furnished to do so, subject to the following conditions:
-    
-    The above copyright notice and this permission notice shall be included in all
-    copies or substantial portions of the Software.
-    
-    THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-    IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-    FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-    AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-    LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-    OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-    SOFTWARE.
+Remember accounts are personal, so you've to use send money option.
