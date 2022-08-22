@@ -355,7 +355,9 @@ Using this blocks you can protect your sheet ids and sheet name etc. Set level (
 
 <img src="https://github.com/jewelshkjony/SpreadSheets/raw/main/images/encode-decode.png" />
 
-<br>
+## More extensions
+
+<a href="https://github.com/jewelshkjony?tab=repositories">See more extensions</a>
 
 ## Extension specifications:
 <img src="https://github.com/jewelshkjony/SpreadSheets/raw/main/images/download.png"/> <a href="https://t.me/jewelshkjony">com.jewel.spreadsheets</a>(232 KB) \
