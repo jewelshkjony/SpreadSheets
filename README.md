@@ -49,178 +49,311 @@ Using this blocks you can get all rows from your sheet. This method is mandatory
 ## Get Cell
 Using this blocks you can get single cell from your sheet.
 
-<img src="https://github.com/jewelshkjony/SpreadSheets/raw/main/images/get-cell.png"/>
-
-<li> column --> It's return the name of column.
-<li> row --> It's return the number of row.
-<li> value --> It's return the value of given cell.
+<table>
+<tr>
+<td><img src="https://github.com/jewelshkjony/SpreadSheets/raw/main/images/get-cell.png"/></td>
+<td>
+<b>column</b> - It's return the name of column.
+  
+<b>row</b> - It's return the number of row.
+  
+<b>value</b> - It's return the value of given cell.
+</td>
+</tr>
+</table>
 
 ## Get Column
 Using this blocks you can get any column from your sheet.
 
-<img src="https://github.com/jewelshkjony/SpreadSheets/raw/main/images/get-column.png"/>
-
-<li> column --> It's return the name of column.
-<li> values --> It's return the list of values.
-<li> length --> It's return the length of given column.
+<table>
+<tr>
+<td><img src="https://github.com/jewelshkjony/SpreadSheets/raw/main/images/get-column.png"/></td>
+<td>
+<b>column</b> - It's return the name of column.
+  
+<b>values</b> - It's return the list of values.
+  
+<b>length</b> - It's return the length of given column.
+</td>
+</tr>
+</table>
 
 ## Get Filter List
 Using this blocks you can get single column by filtering.
 
-<img src="https://github.com/jewelshkjony/SpreadSheets/raw/main/images/filter-list.png"/>
-
-<li> column --> It's return the name of column.
-<li> searchText --> It's return the search text.
-<li> matches --> It's return the list of matching value.
-<li> matchesLength --> It's return the length of filtered list.
-<li> nonMatches --> It's return the list of non matching value.
-<li> nonMatchesLength --> It's return the length of non matching list.
+<table>
+<tr>
+<td><img src="https://github.com/jewelshkjony/SpreadSheets/raw/main/images/filter-list.png"/></td>
+<td>
+<b>column</b> - It's return the name of column.
+  
+<b>searchText</b> - It's return the search text.
+  
+<b>matches</b> - It's return the list of matching value.
+  
+<b>matchesLength</b> - It's return the length of filtered list.
+  
+<b>nonMatches</b> - It's return the list of non matching value.
+  
+<b>nonMatchesLength</b> - It's return the length of non matching list.
+</td>
+</tr>
+</table>
 
 ## Get Row
 Using this blocks you can get values of any row.
 
-<img src="https://github.com/jewelshkjony/SpreadSheets/raw/main/images/get-row.png"/>
-
-<li> row --> It's return the number of row.
-<li> values --> It's return the list of values.
-<li> columns --> It's return the list of columns.
+<table>
+<tr>
+<td><img src="https://github.com/jewelshkjony/SpreadSheets/raw/main/images/get-row.png"/></td>
+<td>
+<b>row</b> - It's return the number of row.
+  
+<b>values</b> - It's return the list of values.
+  
+<b>columns</b> - It's return the list of columns.
+</td>
+</tr>
+</table>
 
 ## Get Sheet List
 Using this blocks you can get list of your sheets.
 
-<img src="https://github.com/jewelshkjony/SpreadSheets/raw/main/images/get-sheet-list.png"/>
-
-<li> sheetNames -> It's return the list of sheet names.
-<li> gridIds -> It's return the list of gid ids.
-<li> length -> It's return the length of sheet list.
+<table>
+<tr>
+<td><img src="https://github.com/jewelshkjony/SpreadSheets/raw/main/images/get-sheet-list.png"/></td>
+<td>
+<b>sheetNames</b> - It's return the list of sheet names.
+  
+<b>gridIds</b> - It's return the list of gid ids.
+  
+<b>length</b> - It's return the length of sheet list.
+</td>
+</tr>
+</table>
 
 ## Get Columns Name
 Using this blocks you can get names of all columns.
 
-<img src="https://github.com/jewelshkjony/SpreadSheets/raw/main/images/get-column-names.png"/>
-
-<li> columns --> It's return the list of names.
-<li> length --> It's return the length of list.
+<table>
+<tr>
+<td><img src="https://github.com/jewelshkjony/SpreadSheets/raw/main/images/get-column-names.png"/></td>
+<td>
+<b>columns</b> - It's return the list of names.
+  
+<b>length</b> - It's return the length of list.
+</td>
+</tr>
+</table>
 
 ## Get Spreadsheet Name
 Using this blocks you can get your spreadsheet project name.
 
-<img src="https://github.com/jewelshkjony/SpreadSheets/raw/main/images/get-spreadsheet-name.png"/>
-
-<li> name -->It's return the name of your spreadsheet project.
+<table>
+<tr>
+<td><img src="https://github.com/jewelshkjony/SpreadSheets/raw/main/images/get-spreadsheet-name.png"/></td>
+<td>
+<b>name</b> - It's return the name of your spreadsheet project.
+</td>
+</tr>
+</table>
 
 ## Total Rows
 Using this block you can get total number of all rows.
 
-<img src="https://github.com/jewelshkjony/SpreadSheets/raw/main/images/total-rows.png"/>
+<table>
+<tr>
+<td><img src="https://github.com/jewelshkjony/SpreadSheets/raw/main/images/total-rows.png"/></td>
+<td>
+  <b>It's return the total number of loaded row.</b>
+</td>
+</tr>
+</table>
 
 ## Create Column
 Using this blocks you can create new column in your sheet.
 
-<img src="https://github.com/jewelshkjony/SpreadSheets/raw/main/images/create-cloumn.png"/>
-
-<li> columnName --> It's return the name of column.
-<li> columnPosition --> It's return the position of new column.
+<table>
+<tr>
+<td><img src="https://github.com/jewelshkjony/SpreadSheets/raw/main/images/create-cloumn.png"/></td>
+<td>
+<b>columnName</b> - It's return the name of column.
+  
+<b>columnPosition</b> - It's return the position of new column.
+</td>
+</tr>
+</table>
 
 ## Create Row
 Using this blocks you can create single cell in you sheet.
 
-<img src="https://github.com/jewelshkjony/SpreadSheets/raw/main/images/create-row.png"/>
-
-<li> row --> It's return the number of row.
-<li> column --> It's return the name of column.
-<li> value --> It's return the value.
+<table>
+<tr>
+<td><img src="https://github.com/jewelshkjony/SpreadSheets/raw/main/images/create-row.png"/></td>
+<td>
+<b>row</b> - It's return the number of row.
+  
+<b>column</b> - It's return the name of column.
+  
+<b>value</b> - It's return the value.
+</td>
+</tr>
+</table>
 
 ## Create Rows
 Using this blocks you can create new row with multiple cells.
 
-<img src="https://github.com/jewelshkjony/SpreadSheets/raw/main/images/create-rows.png"/>
-
-<li> response --> It's return the response string.
+<table>
+<tr>
+<td><img src="https://github.com/jewelshkjony/SpreadSheets/raw/main/images/create-rows.png"/></td>
+<td>
+<b>response</b> - It's return the response string.
+</td>
+</tr>
+</table>
 
 ## Update Cell
 Using this blocks you can update any cell.
-
-<img src="https://github.com/jewelshkjony/SpreadSheets/raw/main/images/update-cell.png"/>
-
-<li> column --> It's return the name of column.
-<li> row --> It's return the row number.
-<li> value --> It's return the value.
+  
+<table>
+<tr>
+<td><img src="https://github.com/jewelshkjony/SpreadSheets/raw/main/images/update-cell.png"/></td>
+<td>
+<b>column</b> - It's return the name of column.
+  
+<b>row</b> - It's return the row number.
+  
+<b>value</b> - It's return the value.
+</td>
+</tr>
+</table>
 
 ## Update Rows
 Using this blocks you can update any row values.
 
-<img src="https://github.com/jewelshkjony/SpreadSheets/raw/main/images/update-rows.png"/>
-
-<li> row --> It's return the number of row.
+<table>
+<tr>
+<td><img src="https://github.com/jewelshkjony/SpreadSheets/raw/main/images/update-rows.png"/></td>
+<td>
+<b>row</b> - It's return the number of row.
+</td>
+</tr>
+</table>
 
 ## Delete Row
 Using this blocks you can delete any row by row number.
 
-<img src="https://github.com/jewelshkjony/SpreadSheets/raw/main/images/delete-row.png"/>
-
-<li> row --> It's return the number of row.
+<table>
+<tr>
+<td><img src="https://github.com/jewelshkjony/SpreadSheets/raw/main/images/delete-row.png"/></td>
+<td>
+<b>row</b> - It's return the number of row.
+</td>
+</tr>
+</table>
 
 ## Delete Column
 Using this blocks you can delete any column from your sheet.
 
-<img src="https://github.com/jewelshkjony/SpreadSheets/raw/main/images/delete-column.png"/>
-
-<li> column --> It's return the name of column.
-<li> position --> It's return the position of column.
+<table>
+<tr>
+<td><img src="https://github.com/jewelshkjony/SpreadSheets/raw/main/images/delete-column.png"/></td>
+<td>
+<b>column</b> - It's return the name of column.
+  
+<b>position</b> - It's return the position of column.
+</td>
+</tr>
+</table>
 
 ## Create Sheet
 Using this blocks you can create new sheet in your spreadsheet project.
 
-<img src="https://github.com/jewelshkjony/SpreadSheets/raw/main/images/create-sheet.png"/>
-
-<li> sheetName --> It's return the name of sheet.
+<table>
+<tr>
+<td><img src="https://github.com/jewelshkjony/SpreadSheets/raw/main/images/create-sheet.png"/></td>
+<td>
+<b>sheetName</b> - It's return the name of sheet.
+</td>
+</tr>
+</table>
 
 ## Delete Sheet
 Using this blocks you can delete any sheet from your spreadsheet project.
 
-<img src="https://github.com/jewelshkjony/SpreadSheets/raw/main/images/delete-sheet.png"/>
-
-<li> sheetName --> It's return the name of sheet.
+<table>
+<tr>
+<td><img src="https://github.com/jewelshkjony/SpreadSheets/raw/main/images/delete-sheet.png"/></td>
+<td>
+<b>sheetName</b> - It's return the name of sheet.
+</td>
+</tr>
+</table>
 
 ## Rename Sheet
 Using this blocks you can rename any sheet from your project.
 
-<img src="https://github.com/jewelshkjony/SpreadSheets/raw/main/images/rename-sheet.png"/>
-
-<li> newName --> It's return the new name of sheet.
+<table>
+<tr>
+<td><img src="https://github.com/jewelshkjony/SpreadSheets/raw/main/images/rename-sheet.png"/></td>
+<td>
+<b>newName</b> - It's return the new name of sheet.
+</td>
+</tr>
+</table>
 
 ## Rename Spreadsheet
 Using this blocks you can rename your project name.
 
-<img src="https://github.com/jewelshkjony/SpreadSheets/raw/main/images/rename-spreadsheet.png"/>
-
-<li> name --> It's return the new name of your project.
+<table>
+<tr>
+<td><img src="https://github.com/jewelshkjony/SpreadSheets/raw/main/images/rename-spreadsheet.png"/></td>
+<td>
+<b>name</b> - It's return the new name of your project.
+</td>
+</tr>
+</table>
 
 ## Refresh Data
 Using this blocks you can refresh data manually if you disabled Auto Refresh. Otherwise no need to refresh data manually.
 
-<img src="https://github.com/jewelshkjony/SpreadSheets/raw/main/images/refresh-data.png"/>
-
-<li> functionName --> It's return the function name, which is performed before data refreshed.
-<li> totalRow --> It's return the total number of rows.
-<li> totalColumn --> It's return the total number of columns.
-<li> loadTime --> It's return the milliseconds of loading time.
-<li> responseContent --> It's return the json string.
-<li> contentSize --> It's return the size of your data.
+<table>
+<tr>
+<td><img src="https://github.com/jewelshkjony/SpreadSheets/raw/main/images/refresh-data.png"/></td>
+<td>
+<b>functionName</b> - It's return the function name, which is performed before data refreshed.
+  
+<b>totalRow</b> - It's return the total number of rows.
+  
+<b>totalColumn</b> - It's return the total number of columns.
+  
+<b>loadTime</b> - It's return the milliseconds of loading time.
+  
+<b>responseContent</b> - It's return the json string.
+  
+<b>contentSize</b> - It's return the size of your data.
+</td>
+</tr>
+</table>
 
 ## Failed
 It's rises when this extension got or faced any error!
 
-<img src="https://github.com/jewelshkjony/SpreadSheets/raw/main/images/failed.png"/>
-
-<li> functionName --> It's return the function name which function got or faced error.
-<li> error --> It's return the error string.
+<table>
+<tr>
+<td><img src="https://github.com/jewelshkjony/SpreadSheets/raw/main/images/failed.png"/></td>
+<td>
+<b>functionName</b> - It's return the function name which function got or faced error.
+  
+<b>error</b> - It's return the error string.
+</td>
+</tr>
+</table>
 
 ## Encode Decode
 Using this blocks you can protect your sheet ids and sheet name etc. Set level (1-100) and password length must be 5 or more.
 
-<img src="https://github.com/jewelshkjony/SpreadSheets/raw/main/images/encode-decode.png"/>
+<img src="https://github.com/jewelshkjony/SpreadSheets/raw/main/images/encode-decode.png" />
 
 <br>
 
