@@ -29,13 +29,22 @@ Totally 30 functions and 22 events are available now.
 ## Get All Rows
 Using this blocks you can get all rows from your sheet. This method is mandatory before using any other blocks. You can use it in your splash screen then enjoy it's features. No more need to use it again.
 
-<img src="https://github.com/jewelshkjony/SpreadSheets/raw/main/images/get-all-rows.png"/>
+<table>
+<tr>
+<td><img src="https://github.com/jewelshkjony/SpreadSheets/raw/main/images/get-all-rows.png"/></td>
+<td>
+<b>totalRow</b> - It's return the total number of rows.
 
-<li> totalRow --> It's return the total number of rows.
-<li> totalColumn --> It's return the total number of columns.
-<li> loadTime --> It's return the milliseconds of loading time.
-<li> responseContent --> It's return the json string.
-<li> contentSize --> It's return the size of your data.
+<b>totalColumn</b> - It's return the total number of columns.
+
+<b>loadTime</b> - It's return the milliseconds of loading time.
+
+<b>responseContent</b> - It's return the json string.
+
+<b>contentSize</b> - It's return the size of your data.
+</td>
+</tr>
+</table>
 
 ## Get Cell
 Using this blocks you can get single cell from your sheet.
