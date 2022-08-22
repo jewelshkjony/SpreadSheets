@@ -16,13 +16,16 @@ Google Spreadsheets Extension - Free & Fastest Database - Scriptless extension. 
   </tr>
 </table>
 
-## Total Functions & Events
+<details>
+  <summary>Total Functions & Events</summary>
+  
 Totally 30 functions and 22 events are available now.
 
 <img src="https://github.com/jewelshkjony/SpreadSheets/raw/main/images/all-methods.png"/>
 
 <img src="https://github.com/jewelshkjony/SpreadSheets/raw/main/images/all-events.png"/>
-
+</details>
+  
 ## Get All Rows
 Using this blocks you can get all rows from your sheet. This method is mandatory before using any other blocks. You can use it in your splash screen then enjoy it's features. No more need to use it again.
 
