@@ -25,6 +25,15 @@ Totally 30 functions and 22 events are available now.
 
 <img src="https://github.com/jewelshkjony/SpreadSheets/raw/main/images/all-events.png"/>
 </details>
+
+<details>
+  <summary>Requirements</summary>
+  
+  <img src="https://user-images.githubusercontent.com/75406851/187043159-c690c634-aabb-47c5-a41d-5f48837bf3d2.png"/>
+  <img src="https://user-images.githubusercontent.com/75406851/187043176-61695d3f-844f-421e-aa3f-ebd035421a2c.png"/>
+  <img src="https://user-images.githubusercontent.com/75406851/187043193-62cf7ff2-5ef0-4063-a10a-aac6c77d04a5.png"/>
+
+</details>
   
 ## Get All Rows
 Using this blocks you can get all rows from your sheet. This method is mandatory before using any other blocks. You can use it in your splash screen then enjoy it's features. No more need to use it again.
@@ -51,7 +60,7 @@ Using this blocks you can get single cell from your sheet.
 
 <table>
 <tr>
-<td><img src="https://github.com/jewelshkjony/SpreadSheets/raw/main/images/get-cell.png"/></td>
+<td><img src="https://user-images.githubusercontent.com/75406851/187042618-4fd9db30-5bd1-4bd7-aec4-01e5ca647c3a.png"/></td>
 <td>
 <b>column</b> - It's return the name of column.
   
@@ -63,11 +72,11 @@ Using this blocks you can get single cell from your sheet.
 </table>
 
 ## Get Column
-Using this blocks you can get any column from your sheet.
+Using this blocks you can get any column from your sheet. Set 0 on max to get all values from column.
 
 <table>
 <tr>
-<td><img src="https://github.com/jewelshkjony/SpreadSheets/raw/main/images/get-column.png"/></td>
+<td><img src="https://user-images.githubusercontent.com/75406851/187042677-9076f3e2-f946-4d0d-ab1c-d0af2820475c.png"/></td>
 <td>
 <b>column</b> - It's return the name of column.
   
@@ -78,24 +87,21 @@ Using this blocks you can get any column from your sheet.
 </tr>
 </table>
 
-## Get Filter List
+## Searching List
 Using this blocks you can get single column by filtering.
 
 <table>
 <tr>
-<td><img src="https://github.com/jewelshkjony/SpreadSheets/raw/main/images/filter-list.png"/></td>
+<td><img src="https://user-images.githubusercontent.com/75406851/187042704-903f0c71-cf49-45ae-a57d-d0e57c68c0f2.png"/></td>
 <td>
 <b>column</b> - It's return the name of column.
   
-<b>searchText</b> - It's return the search text.
+<b>search</b> - It's return the search text.
   
-<b>matches</b> - It's return the list of matching value.
+<b>values</b> - It's return the list of matching value.
   
-<b>matchesLength</b> - It's return the length of filtered list.
-  
-<b>nonMatches</b> - It's return the list of non matching value.
-  
-<b>nonMatchesLength</b> - It's return the length of non matching list.
+<b>length</b> - It's return the length of filtered list.
+
 </td>
 </tr>
 </table>
@@ -105,7 +111,7 @@ Using this blocks you can get values of any row.
 
 <table>
 <tr>
-<td><img src="https://github.com/jewelshkjony/SpreadSheets/raw/main/images/get-row.png"/></td>
+<td><img src="https://user-images.githubusercontent.com/75406851/187042729-277858fd-1c4b-4f00-a652-86d09a1ffc21.png"/></td>
 <td>
 <b>row</b> - It's return the number of row.
   
@@ -116,12 +122,12 @@ Using this blocks you can get values of any row.
 </tr>
 </table>
 
-## Get Sheet List
+## Get Sheet Names
 Using this blocks you can get list of your sheets.
 
 <table>
 <tr>
-<td><img src="https://github.com/jewelshkjony/SpreadSheets/raw/main/images/get-sheet-list.png"/></td>
+<td><img src="https://user-images.githubusercontent.com/75406851/187042754-e48e1c87-9109-4059-9ec8-9bf5798ba757.png"/></td>
 <td>
 <b>sheetNames</b> - It's return the list of sheet names.
   
@@ -132,12 +138,12 @@ Using this blocks you can get list of your sheets.
 </tr>
 </table>
 
-## Get Columns Name
+## Get Column Names
 Using this blocks you can get names of all columns.
 
 <table>
 <tr>
-<td><img src="https://github.com/jewelshkjony/SpreadSheets/raw/main/images/get-column-names.png"/></td>
+<td><img src="https://user-images.githubusercontent.com/75406851/187042777-f259750d-e669-4245-a0ee-81370b8c35d3.png"/></td>
 <td>
 <b>columns</b> - It's return the list of names.
   
@@ -361,13 +367,13 @@ Using this blocks you can protect your sheet ids and sheet name etc. Set level (
 
 ## Extension specifications:
 <img src="https://github.com/jewelshkjony/SpreadSheets/raw/main/images/download.png"/> <a href="https://t.me/jewelshkjony">com.jewel.spreadsheets</a>(232 KB) \
-<b>Version:</b> 7.0.2\
+<b>Version:</b> 8.0.1\
 <b>Price:</b> $5 USD <sub>(Standard Edition) - [Speed, validity and some functions are limited. Also you'll not get any future updates for free.]</sub> \
 <b>Price:</b> $10 USD <sub>(Premium Edition) - [Speed and validity is encreased. Unlocked all of functions but plan upgrade limitation remain. Recommend for mid budget users.]</sub> \
 <b>Price:</b> $15 USD <sub>(Platinum Edition) - [Speed and validity is more extended. Remain upgrade limitation. Recommend for all.]</sub> \
 <b>Price:</b> $20 USD <sub>(Flash Edition) - [More validity and no speed limitations & updates are totally free! Tested with 1M rows! Recommend for higher end budget only.]</sub> \
 <b>Price:</b> $25 USD <sub>(Speedster Edition) - [Everything is unlocked and premium. No limitations & lifetime support! Tested with 2M rows! Recommend for higher end budget only.]</sub> \
-<b>Last amendment:</b> 22 August 2022\
+<b>Last amendment:</b> 28 August 2022\
 <b>Supported builder:</b> <a href="https://www.kodular.io/">Kodular</a>, <a href="https://niotron.com/">Niotron</a>, <a href="https://appzard.com/">AppZard</a>, <a href="https://androidbuilder.in/">AndroidBuilder</a>, <a href="http://ai2.appinventor.mit.edu/">App Inventor</a> and it's other distributions.
 
 ## 📫 How to reach me -
@@ -375,7 +381,7 @@ Using this blocks you can protect your sheet ids and sheet name etc. Set level (
 <a href="https://t.me/jewelshkjony">Telegram</a> | <a href="https://wa.me/8801775668913">WhatsApp</a> | <a href="https://fb.com/jewelshkjony">Facebook</a> | <a href="https://m.me/jewelshkjony">Messenger</a> | <a href="https://m.youtube.com/c/JewelShikderJony">Youtube</a>
 
 ## Global Payment Method
-<a href="https://www.xoom.com/bangladesh/send-money">Xoom</a> | <a href="https://wise.com/">TansferWise (Wise)</a> | <a href="http://share.payoneer.com/nav/kJkLyppKLt-FTUg-P9xnUd76yT4iWQiym2irI42PLM7uQWXuVsWvSOABMvVykU5hbFiDGSULXNdI3-yRM7JVhA2">Payoneer</a>
+<a href="https://www.xoom.com/bangladesh/send-money">Xoom</a> | <a href="https://wise.com/">TansferWise (Wise)</a>
 
 ### Bangladeshi Payment Method
 Bangladeshi user can send money using <a href="https://bka.sh/next?c=signup&uuid=C1CC9JVT1">bkash</a> | <a href="https://play.google.com/store/apps/details?id=com.konasl.nagad">Nagad</a> | <a href="https://play.google.com/store/apps/details?id=com.dbbl.mbs.apps.main">Rocket</a>.
