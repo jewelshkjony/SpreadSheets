@@ -11,8 +11,8 @@ Google Spreadsheets Extension - Free & Fastest Database - Scriptless extension. 
 
 <table>
   <tr>
-    <td><img src="https://github.com/jewelshkjony/SpreadSheets/raw/main/images/property-1.png"/></td>
-    <td><img src="https://github.com/jewelshkjony/SpreadSheets/raw/main/images/property-2.png"/></td>
+    <td><img src="https://user-images.githubusercontent.com/75406851/208139324-6a164b2c-ddc4-4255-8f17-54b338a34949.png"/></td>
+    <td><img src="https://user-images.githubusercontent.com/75406851/208139725-e5f73826-6833-44bd-91d2-6fbe75a6264b.png"/></td>
   </tr>
 </table>
 
@@ -387,14 +387,14 @@ Using this blocks you can protect your sheet ids and sheet name etc. Set level (
 <a href="https://github.com/jewelshkjony?tab=repositories">See more extensions</a>
 
 ## Extension specifications:
-<img src="https://github.com/jewelshkjony/SpreadSheets/raw/main/images/download.png"/> <a href="https://t.me/jewelshkjony">com.jewel.spreadsheets.aix</a> (106 KB) \
-<b>Version:</b> 9.1.0\
+<img src="https://github.com/jewelshkjony/SpreadSheets/raw/main/images/download.png"/> <a href="https://t.me/jewelshkjony">com.jewel.spreadsheets.aix</a> (110 KB) \
+<b>Version:</b> 9.5.0\
 <b>Price:</b> $5 USD <sub>(Standard Edition) - [Speed, validity and some functions are limited. Also you'll not get any future updates for free.]</sub> \
 <b>Price:</b> $10 USD <sub>(Premium Edition) - [Speed and validity is encreased. Unlocked all of functions but plan upgrade limitation remain. Recommend for mid budget users.]</sub> \
 <b>Price:</b> $15 USD <sub>(Platinum Edition) - [Speed and validity is more extended. Remain upgrade limitation. Recommend for all.]</sub> \
 <b>Price:</b> $20 USD <sub>(Flash Edition) - [More validity and no speed limitations & updates are totally free! Tested with 1M rows! Recommend for higher end budget only.]</sub> \
 <b>Price:</b> $25 USD <sub>(Speedster Edition) - [Everything is unlocked and premium. No limitations & lifetime support! Tested with 2M rows! Recommend for higher end budget only.]</sub> \
-<b>Last amendment:</b> 05 October 2022\
+<b>Last amendment:</b> 16 November 2022\
 <b>Supported builder:</b> <a href="https://www.kodular.io/">Kodular</a>, <a href="https://niotron.com/">Niotron</a>, <a href="https://appzard.com/">AppZard</a>, <a href="https://androidbuilder.in/">AndroidBuilder</a>, <a href="http://ai2.appinventor.mit.edu/">App Inventor</a> and it's other distributions.
 
 ## 📫 How to reach me -
@@ -403,6 +403,6 @@ Using this blocks you can protect your sheet ids and sheet name etc. Set level (
 
 ## 💲 Payment Methods ↓
 
-❏ <a href="https://www.xoom.com/bangladesh/send-money" target="_blank">Xoom</a> | <a href="https://wise.com/?sourceCurrency=USD&targetCurrency=BDT&sourceAmount=20" target="_blank">Wise</a> | <a href="https://www.skrill.com/en/">Skrill</a> | <a href="https://www.binance.me/en/activity/referral-entry/CPA?fromActivityPage=true&ref=CPA_0068YL77KV" target="_blank">Binance</a> | <a href="https://play.google.com/store/apps/details?id=com.jewelshkjony.pay2me">Pay2Me</a> (Global)
+❏ <a href="https://www.xoom.com/bangladesh/send-money" target="_blank">Xoom</a> | <a href="https://wise.com/?sourceCurrency=USD&targetCurrency=BDT&sourceAmount=20" target="_blank">Wise</a> | <a href="https://www.skrill.com/en/">Skrill</a> | <a href="https://www.binance.me/en/activity/referral-entry/CPA?fromActivityPage=true&ref=CPA_0068YL77KV" target="_blank">Binance</a> | <a href="https://play.google.com/store/apps/details?id=com.jewelshkjony.pay2me">Pay2Me</a> | <a href="https://www.paypal.com/">Paypal</a>  (Global)
 
 ❏ <a href="https://bka.sh/next?c=signup&uuid=C1CC9JVT1" target="_blank">bkash</a> | <a href="https://play.google.com/store/apps/details?id=com.konasl.nagad">Nagad</a> | <a href="https://play.google.com/store/apps/details?id=com.dbbl.mbs.apps.main">Rocket</a> (Bangladesh)
