@@ -106,6 +106,27 @@ Using this blocks you can get single column by filtering.
 </tr>
 </table>
 
+## Advance Search
+Using this blocks to get filtered list by another list values.
+
+<table>
+<tr>
+<td><img src="https://user-images.githubusercontent.com/75406851/208096552-f6dcc972-3e23-4894-aea2-22a0de50b5ae.png"/></td>
+<td>
+<b>byColumn</b> - It's return the name of column.
+
+<b>text</b> - It's return the search text.
+
+<b>fromColumn</b> - It's return the name of column.
+
+<b>values</b> - It's return the list of matching value.
+
+<b>length</b> - It's return the length of filtered list.
+
+</td>
+</tr>
+</table>
+
 ## Get Row
 Using this blocks you can get values of any row.
 
