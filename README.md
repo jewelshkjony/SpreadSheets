@@ -188,7 +188,7 @@ Using this blocks you can create new row with multiple cells.
 ## ➕ Create Sheet
 Using this blocks you can create new sheet in your spreadsheet project.
 
-![image](https://user-images.githubusercontent.com/75406851/218044740-a393990b-2575-4369-b590-ac1ef1b45e2c.png)
+![image](https://user-images.githubusercontent.com/75406851/218048146-16848fa5-d364-42a6-8ffb-b9664fac3fa3.png)
 
 `sheetName` - Enter new sheet name.
 
