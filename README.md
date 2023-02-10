@@ -20,8 +20,16 @@ Google Spreadsheets Extension | Free & Fastest Database | Script-less extension.
 <details>
 <summary><b>Requirements  </b></summary>
 <br>
-<img src="https://user-images.githubusercontent.com/75406851/218042696-4d94aae7-73a5-4948-a858-97733dc214e6.png">
-<img src="https://user-images.githubusercontent.com/75406851/218042758-9b21c2da-fda0-4924-875d-1692145a3d54.png">
+<table>
+  <tr>
+    <td width="60%">
+      <img src="https://user-images.githubusercontent.com/75406851/218042696-4d94aae7-73a5-4948-a858-97733dc214e6.png">
+    </td>
+    <td>
+      <img src="https://user-images.githubusercontent.com/75406851/218042758-9b21c2da-fda0-4924-875d-1692145a3d54.png">
+    </td>
+  </tr>
+</table>
 </details>
 
 * **
@@ -170,8 +178,8 @@ Using this blocks you can create single cell in you sheet.
 
 ![image](https://user-images.githubusercontent.com/75406851/218044653-d6afd326-24f1-4f2e-983e-a49435675976.png)
 
-`row Number` - It's return the number of row.
-`column Name` - It's return the name of column.
+`row Number` - It's return the number of row.\
+`column Name` - It's return the name of column.\
 `value` - It's return the value.
 
 ## ➕ Create Rows
