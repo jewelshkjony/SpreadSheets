@@ -1,404 +1,437 @@
-# SpreadSheets Extension
+# Spreadsheets Extension - Read, write & modify data from sheets ⚡
 An awesome extension to work with google spreadsheet. You can read, write and modify data from your sheets.
+* **
 
-<img src="https://github.com/jewelshkjony/SpreadSheets/raw/main/images/Google%20Spreadsheet%20Logo.png"/>
+![image](https://user-images.githubusercontent.com/75406851/218042378-ade70b3c-819c-43ea-96b1-0f97cf8126ad.png)
 
-Google Spreadsheets Extension - Free & Fastest Database - Scriptless extension. It's 5x Faster Than Airtable. It also give you offline support once data is loaded. It's very secure to protect your data from hackers. It can load huge amount of data. It's very simple and easy to integrate this extension into your application.
+Google Spreadsheets Extension | Free & Fastest Database | Script-less extension. It's 5x Faster Than Airtable. It also give you offline support once data is loaded. It's very secure to protect your data from hackers. It can load huge amount of data. It's very simple and easy to integrate this extension into your application. Read release notes for knowing about new features.
 
-## Extension Properties
-
-<img src="https://github.com/jewelshkjony/SpreadSheets/raw/main/images/aix.png"/>
+## ⬇️ Extension Properties
 
 <table>
   <tr>
-    <td><img src="https://user-images.githubusercontent.com/75406851/208139324-6a164b2c-ddc4-4255-8f17-54b338a34949.png"/></td>
-    <td><img src="https://user-images.githubusercontent.com/75406851/208139725-e5f73826-6833-44bd-91d2-6fbe75a6264b.png"/></td>
+    <td><img src="https://user-images.githubusercontent.com/75406851/218042497-2811c53d-7738-4207-97ee-eaf460aa5448.png"></td>
+    <td><img src="https://user-images.githubusercontent.com/75406851/218042548-2b7f2245-01fe-4476-aede-3d99340dce3e.png"></td>
   </tr>
 </table>
 
-<details>
-  <summary>Total Functions & Events</summary>
-  
-Totally 30 functions and 22 events are available now.
-
-<img src="https://github.com/jewelshkjony/SpreadSheets/raw/main/images/all-methods.png"/>
-
-<img src="https://github.com/jewelshkjony/SpreadSheets/raw/main/images/all-events.png"/>
-</details>
+<br>
 
 <details>
-  <summary>Requirements</summary>
-  
-  <img src="https://user-images.githubusercontent.com/75406851/187043159-c690c634-aabb-47c5-a41d-5f48837bf3d2.png"/>
-  <img src="https://user-images.githubusercontent.com/75406851/187043176-61695d3f-844f-421e-aa3f-ebd035421a2c.png"/>
-  <img src="https://user-images.githubusercontent.com/75406851/187043193-62cf7ff2-5ef0-4063-a10a-aac6c77d04a5.png"/>
-
+<summary><b>Requirements  </b></summary>
+<br>
+<img src="https://user-images.githubusercontent.com/75406851/218042696-4d94aae7-73a5-4948-a858-97733dc214e6.png">
+<img src="https://user-images.githubusercontent.com/75406851/218042758-9b21c2da-fda0-4924-875d-1692145a3d54.png">
 </details>
-  
-## Get All Rows
-Using this blocks you can get all rows from your sheet. This method is mandatory before using any other blocks. You can use it in your splash screen then enjoy it's features. No more need to use it again.
 
-<table>
-<tr>
-<td><img src="https://github.com/jewelshkjony/SpreadSheets/raw/main/images/get-all-rows.png"/></td>
-<td>
-<b>totalRow</b> - It's return the total number of rows.
+* **
 
-<b>totalColumn</b> - It's return the total number of columns.
+## ⬇️ Get All Rows
+* **
+Using this blocks you can get all rows from your sheet.
 
-<b>loadTime</b> - It's return the milliseconds of loading time.
+![image](https://user-images.githubusercontent.com/75406851/218042929-6a996ed9-6550-411d-bc40-224d299abfbb.png)
 
-<b>responseContent</b> - It's return the json string.
+![image](https://user-images.githubusercontent.com/75406851/218042947-fecaa7c2-70c0-4f9b-a247-2ff0b23e8f21.png)
 
-<b>contentSize</b> - It's return the size of your data.
-</td>
-</tr>
-</table>
+`totalRow` - It's return the total number of rows.
+`totalColumn` - It's return the total number of columns.
+`loadTime` - It's return the milliseconds of loading time.
+`response Content` - It's return the Json string.
 
-## Get Cell
-Using this blocks you can get single cell from your sheet.
-
-<table>
-<tr>
-<td><img src="https://user-images.githubusercontent.com/75406851/187042618-4fd9db30-5bd1-4bd7-aec4-01e5ca647c3a.png"/></td>
-<td>
-<b>column</b> - It's return the name of column.
-  
-<b>row</b> - It's return the number of row.
-  
-<b>value</b> - It's return the value of given cell.
-</td>
-</tr>
-</table>
-
-## Get Column
+## ⬇️ Get Column
+* **
 Using this blocks you can get any column from your sheet. Set 0 on max to get all values from column.
 
-<table>
-<tr>
-<td><img src="https://user-images.githubusercontent.com/75406851/187042677-9076f3e2-f946-4d0d-ab1c-d0af2820475c.png"/></td>
-<td>
-<b>column</b> - It's return the name of column.
-  
-<b>values</b> - It's return the list of values.
-  
-<b>length</b> - It's return the length of given column.
-</td>
-</tr>
-</table>
+![image|285x83](upload://A7G3nI5gAiXmNakEyDjJPmSBk0j.png)
 
-## Searching List
+`column Name` - Enter column name.
+`max` - Enter limit to get values.
+
+![image|288x94](upload://2xzOUyOoDQogTBQ1jZGWIBfDWdC.png)
+
+`column Name` - It's return the name of column.
+`values` - It's return the list of values.
+`length` - It's return the length of given column.
+
+## ⬇️ Get Cell
+* **
+Using this blocks you can get single cell from your sheet.
+
+![image|262x85](upload://pXvE1nBi42mK9mi52evVVtnicIo.png)
+
+`columnName` - Enter column name.
+`row Number` - Enter row number.
+
+![image|312x93](upload://vaAfBLyWvJW7ZT4y84jRUHhJTPH.png)
+
+`column Name` - It's return given column name.
+`row Number` - It's return given row number.
+`value` - It's return cell value.
+
+## 🔎 Search
+* **
 Using this blocks you can get single column by filtering.
 
-<table>
-<tr>
-<td><img src="https://user-images.githubusercontent.com/75406851/187042704-903f0c71-cf49-45ae-a57d-d0e57c68c0f2.png"/></td>
-<td>
-<b>column</b> - It's return the name of column.
-  
-<b>search</b> - It's return the search text.
-  
-<b>values</b> - It's return the list of matching value.
-  
-<b>length</b> - It's return the length of filtered list.
+![image|257x87](upload://aKZFeDOFYItelsQOrc4xfSSSDWs.png)
 
-</td>
-</tr>
-</table>
+`column Name` - Enter Column name to search data.
+`keyword` - Enter search text to filter data.
 
-## Advance Search
-Using this blocks to get filtered list by another list values.
+![image|441x94](upload://ytXuQSCTs31B8o9NlGPdDREc7kL.png)
 
-<table>
-<tr>
-<td><img src="https://user-images.githubusercontent.com/75406851/208096552-f6dcc972-3e23-4894-aea2-22a0de50b5ae.png"/></td>
-<td>
-<b>byColumn</b> - It's return the name of column.
+`column Name` - It's return the given column name.
+`keyword` - It's return the given keyword.
+`values` - It's return the list of matching value.
+`positions` - It's return the positions of filtered data.
+`length` - It's return the length of filtered list.
 
-<b>text</b> - It's return the search text.
+## 🔎 Advance Search
+* **
+Using this blocks you can get filtered data by search from two columns.
 
-<b>fromColumn</b> - It's return the name of column.
+![image|312x110](upload://aOSeLE3W8Q3Ltbs52G3eil8hHpi.png)
 
-<b>values</b> - It's return the list of matching value.
+`byColumn` - Enter column name to search.
+`keyword` - Enter search text.
+`fromColumn` - Enter column name to fetch data.
 
-<b>length</b> - It's return the length of filtered list.
+![image|518x92](upload://7Xi060ic0bQV1m7kVM5zWwtbUJF.png)
 
-</td>
-</tr>
-</table>
+`byColumn` - It's return byColumn name.
+`keyword` - It's return search text.
+`fromColumn` - It's return fromColumn name.
+`values` - It's return the list of matching value.
+`positions` - It's return the positions of filtered data.
+`length` - It's return the length of filtered list.
 
-## Get Row
+## ⬇️ Get Row
+* **
 Using this blocks you can get values of any row.
 
-<table>
-<tr>
-<td><img src="https://user-images.githubusercontent.com/75406851/187042729-277858fd-1c4b-4f00-a652-86d09a1ffc21.png"/></td>
-<td>
-<b>row</b> - It's return the number of row.
-  
-<b>values</b> - It's return the list of values.
-  
-<b>columns</b> - It's return the list of columns.
-</td>
-</tr>
-</table>
+![image|267x60](upload://ajNS60ymQLkAJ5fyMUGIcvsHZzM.png)
 
-## Get Sheet Names
+`row Number` - Enter row number to get values.
+
+![image|329x96](upload://gRnJx8lENe6w7Iz53V2Il6O9yjG.png)
+
+`row Number` - It's return the row number.
+`values` - It's return the list of values.
+`column Names` - It's return the list of column names.
+
+## ⬇️ Get Sheet Names
+* **
 Using this blocks you can get list of your sheets.
 
-<table>
-<tr>
-<td><img src="https://user-images.githubusercontent.com/75406851/187042754-e48e1c87-9109-4059-9ec8-9bf5798ba757.png"/></td>
-<td>
-<b>sheetNames</b> - It's return the list of sheet names.
-  
-<b>gridIds</b> - It's return the list of gid ids.
-  
-<b>length</b> - It's return the length of sheet list.
-</td>
-</tr>
-</table>
+![image|313x37](upload://ptorD0HY5E1EMwHoBr0KEb9HRhY.png)
 
-## Get Column Names
+![image|320x96](upload://sCDrk8IWpKYJpONLWNetA3BMHmn.png)
+
+`sheetNames` - It's return the list of sheet names.
+`gidIds` - It's return the list of gid ids.
+`length` - It's return the length of sheet list.
+
+## ⬇️ Get Column Names
+* **
 Using this blocks you can get names of all columns.
 
-<table>
-<tr>
-<td><img src="https://user-images.githubusercontent.com/75406851/187042777-f259750d-e669-4245-a0ee-81370b8c35d3.png"/></td>
-<td>
-<b>columns</b> - It's return the list of names.
-  
-<b>length</b> - It's return the length of list.
-</td>
-</tr>
-</table>
+![image|324x39](upload://2cMWpbkma6rGRnsq5c7Jzuwzdxm.png)
 
-## Get Spreadsheet Name
+![image|330x93](upload://gLmUQxWs05PzypTaqseotVE35Fy.png)
+
+`column Names` - It's return the list of column names.
+`length` - It's return the length of list.
+
+## ⬇️ Get Spreadsheet Name
+* **
 Using this blocks you can get your spreadsheet project name.
 
-<table>
-<tr>
-<td><img src="https://github.com/jewelshkjony/SpreadSheets/raw/main/images/get-spreadsheet-name.png"/></td>
-<td>
-<b>name</b> - It's return the name of your spreadsheet project.
-</td>
-</tr>
-</table>
+![image|341x32](upload://9sMlOtbZMT780zUx91otWY4wmmn.png)
 
-## Total Rows
+![image|355x95](upload://mSHStPYEt8bgsbRMdsDbpjJIrVc.png)
+
+`spreadsheetName` - It's return the name of your spreadsheet project.
+
+## ⬇️ Total Rows
+* **
 Using this block you can get total number of all rows.
 
-<table>
-<tr>
-<td><img src="https://github.com/jewelshkjony/SpreadSheets/raw/main/images/total-rows.png"/></td>
-<td>
-  <b>It's return the total number of loaded row.</b>
-</td>
-</tr>
-</table>
+<img src="upload://tb5qKdHZTSfrkaUgO3ju2mOMVa3.png">
 
-## Create Column
+## ➕ Create Column
+* **
 Using this blocks you can create new column in your sheet.
 
-<table>
-<tr>
-<td><img src="https://github.com/jewelshkjony/SpreadSheets/raw/main/images/create-cloumn.png"/></td>
-<td>
-<b>columnName</b> - It's return the name of column.
-  
-<b>columnPosition</b> - It's return the position of new column.
-</td>
-</tr>
-</table>
+![image|295x57](upload://zMVjXCzoqqHVDUtR2w6H6HPQsgN.png)
 
-## Create Row
+`column Name` - Enter new name to create column.
+
+![image|311x91](upload://MbkSjBn5zP8GsSlBgJ410NI4Oo.png)
+
+`column Name` - It's return the new name.
+`columnPosition` - It's return the position of new column.
+
+## ➕ Create Row
+* **
 Using this blocks you can create single cell in you sheet.
 
-<table>
-<tr>
-<td><img src="https://github.com/jewelshkjony/SpreadSheets/raw/main/images/create-row.png"/></td>
-<td>
-<b>row</b> - It's return the number of row.
-  
-<b>column</b> - It's return the name of column.
-  
-<b>value</b> - It's return the value.
-</td>
-</tr>
-</table>
+![image|281x82](upload://m8ayKdW42qd9DZWPaO8CqpYfIsi.png)
 
-## Create Rows
+`column Name` - Enter the column name where need to create row.
+`value` - Enter cell value to create row.
+
+![image|311x91](upload://lRrPVR4v3wsw0sjFGDwfRTrlcWR.png)
+
+`row Number` - It's return the number of row.
+`column Name` - It's return the name of column.
+`value` - It's return the value.
+
+## ➕ Create Rows
+* **
 Using this blocks you can create new row with multiple cells.
 
-<table>
-<tr>
-<td><img src="https://github.com/jewelshkjony/SpreadSheets/raw/main/images/create-rows.png"/></td>
-<td>
-<b>response</b> - It's return the response string.
-</td>
-</tr>
-</table>
+![image|288x61](upload://gbD70LGcFwQo4oflegDQH4iJ2Us.png)
 
-## Update Cell
-Using this blocks you can update any cell.
-  
-<table>
-<tr>
-<td><img src="https://github.com/jewelshkjony/SpreadSheets/raw/main/images/update-cell.png"/></td>
-<td>
-<b>column</b> - It's return the name of column.
-  
-<b>row</b> - It's return the row number.
-  
-<b>value</b> - It's return the value.
-</td>
-</tr>
-</table>
+`values` - Enter values as list to create new row.
 
-## Update Rows
-Using this blocks you can update any row values.
+![image|299x94](upload://vEO2mkd1mEFuzdMZOZYHALSvl7P.png)
 
-<table>
-<tr>
-<td><img src="https://github.com/jewelshkjony/SpreadSheets/raw/main/images/update-rows.png"/></td>
-<td>
-<b>row</b> - It's return the number of row.
-</td>
-</tr>
-</table>
+`response` - It's return the response string.
 
-## Delete Row
-Using this blocks you can delete any row by row number.
-
-<table>
-<tr>
-<td><img src="https://github.com/jewelshkjony/SpreadSheets/raw/main/images/delete-row.png"/></td>
-<td>
-<b>row</b> - It's return the number of row.
-</td>
-</tr>
-</table>
-
-## Delete Column
-Using this blocks you can delete any column from your sheet.
-
-<table>
-<tr>
-<td><img src="https://github.com/jewelshkjony/SpreadSheets/raw/main/images/delete-column.png"/></td>
-<td>
-<b>column</b> - It's return the name of column.
-  
-<b>position</b> - It's return the position of column.
-</td>
-</tr>
-</table>
-
-## Create Sheet
+## ➕ Create Sheet
+* **
 Using this blocks you can create new sheet in your spreadsheet project.
 
-<table>
-<tr>
-<td><img src="https://github.com/jewelshkjony/SpreadSheets/raw/main/images/create-sheet.png"/></td>
-<td>
-<b>sheetName</b> - It's return the name of sheet.
-</td>
-</tr>
-</table>
+![image|290x61](upload://n6zXOX9ch1UA1WluxJSb0ukq651.png)
 
-## Delete Sheet
+`sheetName` - Enter new sheet name.
+
+![image|303x95](upload://dVQ5o3h6GTWVildAJPju3wkSsYN.png)
+
+`sheetName` - It's return the name of sheet.
+
+## ⤴️ Update Cell
+* **
+Using this blocks you can update any cell.
+
+![image|278x108](upload://bPQbxZwuV29jofT3za8GdOI13Nj.png)
+
+`column Name` - Enter column name.
+`row Number` - Enter row number.
+`value` - Enter new value.
+
+![image|312x94](upload://2f5LbLMoXfohIYDG4lFrha1TmyH.png)
+
+`column Name` - It's return the name of column.
+`row Number` - It's return the row number.
+`value` - It's return the value.
+
+## ⤴️ Update Rows
+* **
+Using this blocks you can update any row values.
+
+![image|292x111](upload://g8cVPmiSacBx4LKTaHlX22hqfi0.png)
+
+`row Number` - Enter row number.
+`column Names` - Enter column names as list..
+`values` - Enter values as list.
+
+![image|302x93](upload://ny8rDGH2EfSXYHXV2DeZhehwk1x.png)
+
+`row Number` - It's return the number of row.
+
+## ✂️ Delete Row
+* **
+Using this blocks you can delete any row by row number.
+
+![image|279x58](upload://3gPX4VeGIGPjCA0ERnmuhrvz7vO.png)
+
+`row Number` - Enter row number.
+
+![image|291x93](upload://2WAS9ZejveuPt4VDuVwjOoML397.png)
+
+`row Number` - It's return the number of row.
+
+## ✂️ Delete Column
+* **
+Using this blocks you can delete any column from your sheet.
+
+![image|301x63](upload://6SWaxp921uqVdCcL1FRndamjIon.png)
+
+`column Name` - Enter column name to delete.
+
+![image|312x91](upload://vpNdL8Tna4V8fMqV0o7f5MAQOyt.png)
+
+`column Name` - It's return the name of column.
+`position` - It's return the position of column.
+
+## ✂️ Delete Sheet
+* **
 Using this blocks you can delete any sheet from your spreadsheet project.
 
-<table>
-<tr>
-<td><img src="https://github.com/jewelshkjony/SpreadSheets/raw/main/images/delete-sheet.png"/></td>
-<td>
-<b>sheetName</b> - It's return the name of sheet.
-</td>
-</tr>
-</table>
+![image|283x61](upload://ap7Ps9rECIYDJq9bebxENfhSzgX.png)
 
-## Rename Sheet
+`sheetName` -  Enter sheet name to delete.
+
+![image|297x96](upload://8sxNws9T4MYlCHlqvKKM6oztgkA.png)
+
+`sheetName` - It's return the name of sheet.
+
+## ✍️ Rename Sheet
+* **
 Using this blocks you can rename any sheet from your project.
 
-<table>
-<tr>
-<td><img src="https://github.com/jewelshkjony/SpreadSheets/raw/main/images/rename-sheet.png"/></td>
-<td>
-<b>newName</b> - It's return the new name of sheet.
-</td>
-</tr>
-</table>
+![image|300x89](upload://8lqu6l1ILQw3WSCyPc3FV90TlQg.png)
 
-## Rename Spreadsheet
+`oldName` - Enter old name of sheet.
+`new Name` - Enter new name to rename sheet.
+
+![image|314x95](upload://ymSPBwXuxcXNif5UQuZvxNwPde8.png)
+
+`new Name` - It's return the new name of sheet.
+`oldName` - It's return the old name.
+
+## ✍️ Rename Spreadsheet
+* **
 Using this blocks you can rename your project name.
 
-<table>
-<tr>
-<td><img src="https://github.com/jewelshkjony/SpreadSheets/raw/main/images/rename-spreadsheet.png"/></td>
-<td>
-<b>name</b> - It's return the new name of your project.
-</td>
-</tr>
-</table>
+![image|345x65](upload://zIxdcNKDBqUfBLqhcc09rc2f308.png)
 
-## Refresh Data
+`name` -  Enter new name to rename spreadsheet project name.
+
+![image|360x98](upload://dwit7VTtWrA51Nm3xw9YWg4M50p.png)
+
+`name` - It's return the new name of your project.
+
+## 🔁 Replace All
+* **
+Using this function you can replace all matching text from active sheet with new value.
+
+![image|275x89](upload://jysZQl6LAG7lCzqI0aaKpk0Z7fW.png)
+
+`text` - Enter text to replace with new value.
+`replaceWith` - Enter new value to replace with old value.
+
+![image|299x96](upload://gnUioipu0l75E0ybo1KNotoE5AZ.png)
+
+`text` - It's return the old value.
+`replaceWith` - It's return the new value.
+
+## 🔁 Replace By Column
+Using this function you can replace all matching text from column with new value.
+
+![image|329x113](upload://bc1qugrtknpjz52vc4m559q7zumkc4268kp7skrsee.png)
+
+`columnName` - Enter column name where you want to replace values.
+`text` - Enter text to replace with new value.
+`replaceWith` - Enter new value to replace with old value.
+
+![image|342x95](upload://bS5283dFAuyepaXjhKjZ9573Ts9.png)
+
+`columnName` - It's return the column name.
+`text` - It's return the old value.
+`replaceWith` - It's return the new value.
+
+## 🔁 Replace By Row
+Using this function you can replace all matching text from row with new value.
+
+![image|311x110](upload://5lKbcnV3k49u3XWqjB8e9KgygGK.png)
+
+`rowNumber` - Enter row number where you want to replace values.
+`text` - Enter text to replace with new value.
+`replaceWith` - Enter new value to replace with old value.
+
+![image|316x93](upload://krR5fxOwdZaiAXeaay9czDmGCKV.png)
+
+`rowNumber` - It's return the row number.
+`text` - It's return the old value.
+`replaceWith` - It's return the new value.
+
+## 🔁 Replace For All Sheets
+Using this function you can replace all matching text from all sheets with new value.
+
+![image|341x86](upload://a7Zp6ccQW6TdA3v1qCDOmNBlwP8.png)
+
+`text` - Enter text to replace with new value.
+`replaceWith` - Enter new value to replace with old value.
+
+![image|358x95](upload://woynUYubFw1tbUXfLt8hXyDbr5a.png)
+
+`text` - It's return the old value.
+`replaceWith` - It's return the new value.
+
+## 🔃 Refresh Data
+* **
 Using this blocks you can refresh data manually if you disabled Auto Refresh. Otherwise no need to refresh data manually.
 
-<table>
-<tr>
-<td><img src="https://github.com/jewelshkjony/SpreadSheets/raw/main/images/refresh-data.png"/></td>
-<td>
-<b>functionName</b> - It's return the function name, which is performed before data refreshed.
-  
-<b>totalRow</b> - It's return the total number of rows.
-  
-<b>totalColumn</b> - It's return the total number of columns.
-  
-<b>loadTime</b> - It's return the milliseconds of loading time.
-  
-<b>responseContent</b> - It's return the json string.
-  
-<b>contentSize</b> - It's return the size of your data.
-</td>
-</tr>
-</table>
+![image|280x38](upload://gey2aJUlenukv9jn3T6O4VZLEfZ.png)
 
-## Failed
-It's rises when this extension got or faced any error!
+![image|557x93](upload://50J5lx7ncRBFy1igE8Z4vCXlZ9H.png)
 
-<table>
-<tr>
-<td><img src="https://github.com/jewelshkjony/SpreadSheets/raw/main/images/failed.png"/></td>
-<td>
-<b>functionName</b> - It's return the function name which function got or faced error.
-  
-<b>error</b> - It's return the error string.
-</td>
-</tr>
-</table>
+`function Name` - It's return the function name which function refresh data automatically.
+`totalRow` - It's return the total number of rows.
+`totalColumn` - It's return the total number of columns.
+`loadTime` - It's return the milliseconds of loading time.
+`response Content` - It's return the Json string.
 
-## Encode Decode
+## ⚠ Failed
+* **
+It's rises when the extension got any error.
+
+![image|268x94](upload://caGxGYTeiIjFydAg3Bzm0nEo3re.png)
+
+`function Name` - It's return the function name which function got error.
+`error Message` - It's return the error message as string.
+
+## 🔐 Encode & Decode
+* **
 Using this blocks you can protect your sheet ids and sheet name etc. Set level (1-100) and password length must be 5 or more.
 
-<img src="https://github.com/jewelshkjony/SpreadSheets/raw/main/images/encode-decode.png" />
+![image|263x109](upload://fAWAwOE20HXCsDn8eU8NxDfiENg.png)
 
->## Implementation Guide Video **↓**
+![image|264x113](upload://fRtWDqPsN9NlqeszhCHCfB1IblL.png)
+***
 
-[![AdmobAds](http://img.youtube.com/vi/VGuE-DOU9ds/0.jpg)](https://www.youtube.com/watch?v=VGuE-DOU9ds&list=PLczFHGJFYQrkl9EhbkeMiaGXMDQfw61dZ)
 
-## More extensions
+## 📝 Release Notes ↷
+* **
+<li> <b>10.0.1:</b> Changed some blocks names.
+<li> <b>10.0.0:</b> Added 3 new functions <small>(ReplaceByColumn, ReplaceByRow, ReplaceForAllSheets)</small>.
+<li> <b>9.6.0:</b> Added new <b>ReplaceAll</b> function.
+<li> <b>9.5.3:</b> Now you can get positions of filtered data.
+<li> <b>9.5.2:</b> Crash issue fixed for Android 8 & lower version.
+<li> <b>9.5.1:</b> Fixed an issue & optimize offline / online mode.
+<li> <b>9.4.0:</b> Removed <b>NameSpace</b> from designer section.
+<li> <b>9.3.0:</b> Bugs fix for offline mode turn off/on option .
+<li> <b>9.2.0:</b> Now you can turn off/on offline mode manually.
+<li> <b>9.1.2:</b> Support automatically data loading feature.
+<li> <b>9.1.0:</b> Smooth experience for loading huge data.
+<li> <b>9.0.0:</b> Extension size compressed to 106 KB.
+
+* **
+
+## 📺 Testing Video ↓
+* **
+
+[![Spreadsheet](http://img.youtube.com/vi/mnqTLrMAXps/0.jpg)](https://www.youtube.com/watch?v=mnqTLrMAXps)
+
+## Implementation Guide Video **↓**
+
+[![Spreadsheet](http://img.youtube.com/vi/VGuE-DOU9ds/0.jpg)](https://www.youtube.com/watch?v=VGuE-DOU9ds&list=PLczFHGJFYQrkl9EhbkeMiaGXMDQfw61dZ)
+
+## ⬇️ More extensions
 
 <a href="https://github.com/jewelshkjony?tab=repositories">See more extensions</a>
 
-## Extension specifications:
-<img src="https://github.com/jewelshkjony/SpreadSheets/raw/main/images/download.png"/> <a href="https://t.me/jewelshkjony">com.jewel.spreadsheets.aix</a> (110 KB) \
-<b>Version:</b> 9.5.3\
+## 📑 Extension Specifications:
+<img src="https://github.com/jewelshkjony/SpreadSheets/raw/main/images/download.png"/> <a href="https://t.me/jewelshkjony">com.jewel.spreadsheets.aix</a> (123 KB) \
+<b>Version:</b> 10.0.1\
 <b>Price:</b> $5 USD <sub>(Standard Edition) - [Speed, validity and some functions are limited. Also you'll not get any future updates for free.]</sub> \
 <b>Price:</b> $10 USD <sub>(Premium Edition) - [Speed and validity is encreased. Unlocked all of functions but plan upgrade limitation remain. Recommend for mid budget users.]</sub> \
 <b>Price:</b> $15 USD <sub>(Platinum Edition) - [Speed and validity is more extended. Remain upgrade limitation. Recommend for all.]</sub> \
 <b>Price:</b> $20 USD <sub>(Flash Edition) - [More validity and no speed limitations & updates are totally free! Tested with 1M rows! Recommend for higher end budget only.]</sub> \
 <b>Price:</b> $25 USD <sub>(Speedster Edition) - [Everything is unlocked and premium. No limitations & lifetime support! Tested with 2M rows! Recommend for higher end budget only.]</sub> \
-<b>Last amendment:</b> 03 February 2023\
+<b>Last amendment:</b> 09 February 2023\
 <b>Supported builder:</b> <a href="https://www.kodular.io/">Kodular</a>, <a href="https://niotron.com/">Niotron</a>, <a href="https://appzard.com/">AppZard</a>, <a href="https://androidbuilder.in/">AndroidBuilder</a>, <a href="http://ai2.appinventor.mit.edu/">App Inventor</a> and it's other distributions.
 
 ## 📫 How to reach me -
