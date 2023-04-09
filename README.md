@@ -412,7 +412,8 @@ Using this blocks you can protect your sheet ids and sheet name etc. Set level (
 <b>Price:</b> $15 USD <sub>(Platinum Edition) - [Speed and validity is more extended. Remain upgrade limitation. Recommend for all.]</sub> \
 <b>Price:</b> $20 USD <sub>(Flash Edition) - [More validity and no speed limitations & updates are totally free! Tested with 1M rows! Recommend for higher end budget only.]</sub> \
 <b>Price:</b> $25 USD <sub>(Speedster Edition) - [Everything is unlocked and premium. No limitations & lifetime support! Tested with 2M rows! Recommend for higher end budget only.]</sub> \
-<b>Last amendment:</b> 09 February 2023\
+<b>Price:</b> $35 USD <sub>(🛃 Custom Edition) - [More 🔐 secure and you can order me to customize the extension for your need.]</sub> \
+<b>Last amendment:</b> 09 February 2023 \
 <b>Supported builder:</b> <a href="https://www.kodular.io/">Kodular</a>, <a href="https://niotron.com/">Niotron</a>, <a href="https://appzard.com/">AppZard</a>, <a href="https://androidbuilder.in/">AndroidBuilder</a>, <a href="http://ai2.appinventor.mit.edu/">App Inventor</a> and it's other distributions.
 
 ## 📫 How to reach me -
